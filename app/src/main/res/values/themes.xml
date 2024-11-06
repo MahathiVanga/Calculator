@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Set primary and secondary colors from colors.xml -->
+        <item name="colorPrimary">@color/Violet</item>
+        <item name="colorSecondary">@color/yellow</item>
+
+        <!-- Optional: Define text colors, button colors, etc. -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+</resources>
